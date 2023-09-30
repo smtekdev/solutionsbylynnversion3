@@ -939,7 +939,7 @@ li {
     display: inline-block;
     margin-left: 30px;
     font-size: 20px;
-    color: var(--thm-base);
+    color: #604ea3;
 }
 
 
@@ -2837,7 +2837,7 @@ li {
 .we-need-help__give .text h4 {
     color: #ffffff;
     font-size: 35px;
-    font-family: var(--thm-font-shadows);
+    font-family: 'wienprounic-regular', sans-serif;
     line-height: 45px;
 }
 
